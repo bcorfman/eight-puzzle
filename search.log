@@ -1,0 +1,2485 @@
+A* search:
+Popped node: 817456203
+Node added to frontier: 817406253
+Node added to frontier: 817456023
+Node added to frontier: 817456230
+Popped node: 817456230
+Node added to frontier: 817450236
+Popped node: 817456023
+Node added to frontier: 817056423
+Popped node: 817450236
+Node added to frontier: 810457236
+Node added to frontier: 817405236
+Popped node: 817405236
+Node added to frontier: 807415236
+Node added to frontier: 817045236
+Node added to frontier: 817435206
+Popped node: 810457236
+Node added to frontier: 801457236
+Popped node: 817435206
+Node added to frontier: 817435026
+Node added to frontier: 817435260
+Popped node: 817435260
+Node added to frontier: 817430265
+Popped node: 817435026
+Node added to frontier: 817035426
+Popped node: 817045236
+Node added to frontier: 017845236
+Node added to frontier: 817245036
+Popped node: 017845236
+Node added to frontier: 107845236
+Popped node: 817245036
+Node added to frontier: 817245306
+Popped node: 817245306
+Node added to frontier: 817205346
+Node added to frontier: 817245360
+Popped node: 817245360
+Node added to frontier: 817240365
+Popped node: 817406253
+Node added to frontier: 807416253
+Node added to frontier: 817046253
+Node added to frontier: 817460253
+Popped node: 807415236
+Node added to frontier: 087415236
+Node added to frontier: 870415236
+Popped node: 817430265
+Node added to frontier: 810437265
+Node added to frontier: 817403265
+Popped node: 817056423
+Node added to frontier: 017856423
+Node added to frontier: 817506423
+Popped node: 801457236
+Node added to frontier: 081457236
+Node added to frontier: 851407236
+Popped node: 817205346
+Node added to frontier: 807215346
+Node added to frontier: 817025346
+Node added to frontier: 817250346
+Popped node: 817240365
+Node added to frontier: 810247365
+Node added to frontier: 817204365
+Popped node: 817035426
+Node added to frontier: 017835426
+Node added to frontier: 817305426
+Popped node: 107845236
+Node added to frontier: 170845236
+Node added to frontier: 147805236
+Popped node: 087415236
+Node added to frontier: 487015236
+Popped node: 817046253
+Node added to frontier: 017846253
+Node added to frontier: 817246053
+Popped node: 817460253
+Node added to frontier: 810467253
+Node added to frontier: 817463250
+Popped node: 817463250
+Node added to frontier: 817463205
+Popped node: 817463205
+Better node on frontier:2123
+Node added to frontier: 817463025
+Popped node: 817403265
+Node added to frontier: 807413265
+Node added to frontier: 817043265
+Popped node: 817463025
+Node added to frontier: 817063425
+Popped node: 870415236
+Node added to frontier: 875410236
+Popped node: 017856423
+Node added to frontier: 107856423
+Popped node: 810437265
+Node added to frontier: 801437265
+Popped node: 817043265
+Node added to frontier: 017843265
+Node added to frontier: 817243065
+Popped node: 017843265
+Node added to frontier: 107843265
+Popped node: 081457236
+Node added to frontier: 481057236
+Popped node: 817025346
+Node added to frontier: 017825346
+Node added to frontier: 817325046
+Popped node: 817243065
+Node added to frontier: 817243605
+Popped node: 017825346
+Node added to frontier: 107825346
+Popped node: 017835426
+Node added to frontier: 107835426
+Popped node: 810247365
+Node added to frontier: 801247365
+Popped node: 817325046
+Node added to frontier: 817325406
+Popped node: 017846253
+Node added to frontier: 107846253
+Popped node: 817305426
+Node added to frontier: 807315426
+Node added to frontier: 817350426
+Better node on frontier:2123
+Popped node: 817243605
+Node added to frontier: 817203645
+Node added to frontier: 817243650
+Popped node: 817325406
+Node added to frontier: 817325460
+Popped node: 170845236
+Node added to frontier: 175840236
+Popped node: 810467253
+Node added to frontier: 801467253
+Popped node: 817246053
+Node added to frontier: 817246503
+Popped node: 817325460
+Node added to frontier: 817320465
+Popped node: 807416253
+Node added to frontier: 087416253
+Node added to frontier: 870416253
+Popped node: 807413265
+Node added to frontier: 087413265
+Node added to frontier: 870413265
+Popped node: 817063425
+Node added to frontier: 017863425
+Node added to frontier: 817603425
+Popped node: 801467253
+Node added to frontier: 081467253
+Node added to frontier: 861407253
+Popped node: 875410236
+Node added to frontier: 875401236
+Node added to frontier: 875416230
+Popped node: 107856423
+Node added to frontier: 170856423
+Node added to frontier: 157806423
+Popped node: 107843265
+Node added to frontier: 170843265
+Node added to frontier: 147803265
+Popped node: 817506423
+Node added to frontier: 807516423
+Node added to frontier: 817560423
+Node added to frontier: 817526403
+Popped node: 801437265
+Node added to frontier: 081437265
+Node added to frontier: 831407265
+Popped node: 807215346
+Node added to frontier: 087215346
+Node added to frontier: 870215346
+Popped node: 851407236
+Node added to frontier: 851047236
+Node added to frontier: 851470236
+Node added to frontier: 851437206
+Popped node: 817250346
+Node added to frontier: 810257346
+Node added to frontier: 817256340
+Popped node: 107825346
+Node added to frontier: 170825346
+Node added to frontier: 127805346
+Popped node: 807315426
+Node added to frontier: 087315426
+Node added to frontier: 870315426
+Popped node: 817203645
+Node added to frontier: 807213645
+Node added to frontier: 817023645
+Node added to frontier: 817230645
+Popped node: 481057236
+Node added to frontier: 481507236
+Node added to frontier: 481257036
+Popped node: 817204365
+Node added to frontier: 807214365
+Node added to frontier: 817024365
+Node added to frontier: 817264305
+Popped node: 487015236
+Node added to frontier: 487105236
+Node added to frontier: 487215036
+Popped node: 801247365
+Node added to frontier: 081247365
+Node added to frontier: 841207365
+Popped node: 817350426
+Node added to frontier: 810357426
+Node added to frontier: 817356420
+Popped node: 147805236
+Node added to frontier: 147085236
+Node added to frontier: 147850236
+Node added to frontier: 147835206
+Popped node: 175840236
+Node added to frontier: 175804236
+Node added to frontier: 175846230
+Popped node: 107846253
+Node added to frontier: 170846253
+Node added to frontier: 147806253
+Popped node: 817243650
+Node added to frontier: 817240653
+Popped node: 107835426
+Node added to frontier: 170835426
+Node added to frontier: 137805426
+Popped node: 081247365
+Node added to frontier: 281047365
+Popped node: 481257036
+Node added to frontier: 481257306
+Popped node: 481257306
+Node added to frontier: 481207356
+Node added to frontier: 481257360
+Popped node: 481257360
+Node added to frontier: 481250367
+Popped node: 481250367
+Node added to frontier: 480251367
+Node added to frontier: 481205367
+Popped node: 481205367
+Node added to frontier: 401285367
+Node added to frontier: 481025367
+Node added to frontier: 481265307
+Popped node: 401285367
+Node added to frontier: 041285367
+Node added to frontier: 410285367
+Popped node: 410285367
+Node added to frontier: 415280367
+Popped node: 487215036
+Node added to frontier: 487215306
+Popped node: 810357426
+Node added to frontier: 801357426
+Popped node: 481025367
+Node added to frontier: 081425367
+Node added to frontier: 481325067
+Popped node: 081425367
+Node added to frontier: 801425367
+Popped node: 147085236
+Node added to frontier: 047185236
+Node added to frontier: 147285036
+Popped node: 041285367
+Node added to frontier: 241085367
+Popped node: 147835206
+Node added to frontier: 147835026
+Node added to frontier: 147835260
+Popped node: 487215306
+Node added to frontier: 487205316
+Node added to frontier: 487215360
+Popped node: 170846253
+Node added to frontier: 176840253
+Popped node: 481325067
+Node added to frontier: 481325607
+Popped node: 281047365
+Node added to frontier: 281407365
+Node added to frontier: 281347065
+Popped node: 241085367
+Node added to frontier: 241805367
+Node added to frontier: 241385067
+Popped node: 170835426
+Node added to frontier: 175830426
+Popped node: 817230645
+Node added to frontier: 810237645
+Node added to frontier: 817235640
+Popped node: 087413265
+Node added to frontier: 487013265
+Popped node: 817320465
+Node added to frontier: 810327465
+Node added to frontier: 817302465
+Popped node: 817246503
+Node added to frontier: 817206543
+Node added to frontier: 817246530
+Popped node: 087416253
+Node added to frontier: 487016253
+Popped node: 087315426
+Node added to frontier: 387015426
+Popped node: 870215346
+Node added to frontier: 875210346
+Popped node: 851470236
+Node added to frontier: 850471236
+Node added to frontier: 851476230
+Popped node: 810257346
+Node added to frontier: 801257346
+Popped node: 870416253
+Node added to frontier: 876410253
+Popped node: 017863425
+Node added to frontier: 107863425
+Popped node: 817024365
+Node added to frontier: 017824365
+Node added to frontier: 817324065
+Popped node: 870413265
+Node added to frontier: 873410265
+Popped node: 081467253
+Node added to frontier: 481067253
+Popped node: 817603425
+Node added to frontier: 807613425
+Node added to frontier: 817630425
+Node added to frontier: 817623405
+Popped node: 851437206
+Node added to frontier: 851437026
+Node added to frontier: 851437260
+Popped node: 851047236
+Node added to frontier: 051847236
+Node added to frontier: 851247036
+Popped node: 170856423
+Node added to frontier: 176850423
+Popped node: 170843265
+Node added to frontier: 173840265
+Popped node: 081437265
+Node added to frontier: 481037265
+Popped node: 817560423
+Node added to frontier: 810567423
+Node added to frontier: 817563420
+Popped node: 127805346
+Node added to frontier: 127085346
+Node added to frontier: 127850346
+Node added to frontier: 127845306
+Popped node: 127845306
+Node added to frontier: 127845036
+Node added to frontier: 127845360
+Popped node: 127845360
+Node added to frontier: 127840365
+Popped node: 170825346
+Node added to frontier: 175820346
+Popped node: 870315426
+Node added to frontier: 875310426
+Popped node: 817526403
+Node added to frontier: 817526043
+Node added to frontier: 817526430
+Popped node: 817526043
+Node added to frontier: 817026543
+Popped node: 817526430
+Node added to frontier: 817520436
+Popped node: 817520436
+Node added to frontier: 810527436
+Node added to frontier: 817502436
+Popped node: 810527436
+Node added to frontier: 801527436
+Popped node: 817502436
+Node added to frontier: 807512436
+Node added to frontier: 817052436
+Node added to frontier: 817532406
+Popped node: 817052436
+Node added to frontier: 017852436
+Node added to frontier: 817452036
+Popped node: 017852436
+Node added to frontier: 107852436
+Popped node: 817532406
+Node added to frontier: 817532046
+Node added to frontier: 817532460
+Popped node: 817532046
+Node added to frontier: 817032546
+Popped node: 817532460
+Node added to frontier: 817530462
+Popped node: 817452036
+Node added to frontier: 817452306
+Popped node: 817452306
+Node added to frontier: 817402356
+Node added to frontier: 817452360
+Popped node: 817452360
+Node added to frontier: 817450362
+Popped node: 087215346
+Node added to frontier: 287015346
+Popped node: 287015346
+Node added to frontier: 287105346
+Node added to frontier: 287315046
+Popped node: 287315046
+Node added to frontier: 287315406
+Popped node: 817023645
+Node added to frontier: 017823645
+Node added to frontier: 817623045
+Popped node: 017823645
+Node added to frontier: 107823645
+Popped node: 147285036
+Node added to frontier: 147285306
+Popped node: 147285306
+Node added to frontier: 147205386
+Node added to frontier: 147285360
+Popped node: 147285360
+Node added to frontier: 147280365
+Popped node: 147205386
+Node added to frontier: 107245386
+Node added to frontier: 147025386
+Node added to frontier: 147250386
+Popped node: 107245386
+Node added to frontier: 017245386
+Node added to frontier: 170245386
+Popped node: 017245386
+Node added to frontier: 217045386
+Popped node: 147835260
+Node added to frontier: 147830265
+Popped node: 810237645
+Node added to frontier: 801237645
+Popped node: 487215360
+Node added to frontier: 487210365
+Popped node: 817324065
+Node added to frontier: 817324605
+Popped node: 481325607
+Node added to frontier: 481305627
+Node added to frontier: 481325670
+Popped node: 147835026
+Node added to frontier: 147035826
+Popped node: 281347065
+Node added to frontier: 281347605
+Popped node: 241385067
+Node added to frontier: 241385607
+Popped node: 810327465
+Node added to frontier: 801327465
+Popped node: 817235640
+Node added to frontier: 817235604
+Popped node: 817302465
+Node added to frontier: 807312465
+Node added to frontier: 817032465
+Node added to frontier: 817362405
+Popped node: 051847236
+Node added to frontier: 501847236
+Popped node: 817246530
+Node added to frontier: 817240536
+Popped node: 817630425
+Node added to frontier: 810637425
+Node added to frontier: 817635420
+Popped node: 817623405
+Better node on frontier:2325
+Node added to frontier: 817623450
+Popped node: 851437026
+Node added to frontier: 851037426
+Popped node: 817563420
+Node added to frontier: 817563402
+Popped node: 017824365
+Node added to frontier: 107824365
+Popped node: 851437260
+Node added to frontier: 851430267
+Popped node: 127085346
+Node added to frontier: 027185346
+Node added to frontier: 127385046
+Popped node: 810567423
+Node added to frontier: 801567423
+Popped node: 851247036
+Node added to frontier: 851247306
+Popped node: 817635420
+Node added to frontier: 817635402
+Popped node: 147025386
+Node added to frontier: 047125386
+Node added to frontier: 147325086
+Popped node: 817563402
+Node added to frontier: 817503462
+Node added to frontier: 817563042
+Popped node: 817635402
+Node added to frontier: 817605432
+Node added to frontier: 817635042
+Popped node: 170245386
+Node added to frontier: 175240386
+Popped node: 217045386
+Node added to frontier: 217405386
+Node added to frontier: 217345086
+Popped node: 851430267
+Node added to frontier: 850431267
+Node added to frontier: 851403267
+Popped node: 851247306
+Node added to frontier: 851207346
+Node added to frontier: 851247360
+Popped node: 147035826
+Node added to frontier: 047135826
+Node added to frontier: 147305826
+Popped node: 817503462
+Node added to frontier: 807513462
+Node added to frontier: 817053462
+Better node on frontier:2325
+Popped node: 817324605
+Node added to frontier: 817304625
+Node added to frontier: 817324650
+Popped node: 481325670
+Node added to frontier: 481320675
+Popped node: 147325086
+Node added to frontier: 147325806
+Popped node: 241385607
+Node added to frontier: 241305687
+Node added to frontier: 241385670
+Popped node: 817563042
+Node added to frontier: 817063542
+Popped node: 281347605
+Node added to frontier: 281307645
+Node added to frontier: 281347650
+Popped node: 127385046
+Node added to frontier: 127385406
+Popped node: 817635042
+Node added to frontier: 817035642
+Popped node: 810637425
+Node added to frontier: 801637425
+Popped node: 817240536
+Node added to frontier: 810247536
+Node added to frontier: 817204536
+Popped node: 817623045
+Popped node: 217345086
+Node added to frontier: 217345806
+Popped node: 147305826
+Node added to frontier: 107345826
+Node added to frontier: 147350826
+Better node on frontier:2325
+Popped node: 107345826
+Node added to frontier: 017345826
+Node added to frontier: 170345826
+Popped node: 170345826
+Node added to frontier: 175340826
+Popped node: 017345826
+Node added to frontier: 317045826
+Popped node: 851247360
+Node added to frontier: 851240367
+Popped node: 147325806
+Node added to frontier: 147325860
+Popped node: 817053462
+Node added to frontier: 017853462
+Node added to frontier: 817453062
+Popped node: 817530462
+Node added to frontier: 810537462
+Popped node: 851240367
+Node added to frontier: 850241367
+Node added to frontier: 851204367
+Popped node: 241305687
+Node added to frontier: 201345687
+Node added to frontier: 241035687
+Node added to frontier: 241350687
+Popped node: 817453062
+Node added to frontier: 817453602
+Popped node: 817453602
+Node added to frontier: 817403652
+Node added to frontier: 817453620
+Popped node: 147325860
+Node added to frontier: 147320865
+Popped node: 810537462
+Node added to frontier: 801537462
+Popped node: 241385670
+Node added to frontier: 241380675
+Popped node: 201345687
+Node added to frontier: 021345687
+Node added to frontier: 210345687
+Popped node: 021345687
+Node added to frontier: 321045687
+Popped node: 210345687
+Node added to frontier: 215340687
+Popped node: 817035642
+Node added to frontier: 017835642
+Node added to frontier: 817305642
+Popped node: 017835642
+Node added to frontier: 107835642
+Popped node: 817305642
+Node added to frontier: 807315642
+Node added to frontier: 817350642
+Node added to frontier: 817345602
+Popped node: 817345602
+Node added to frontier: 817345062
+Node added to frontier: 817345620
+Popped node: 810247536
+Node added to frontier: 801247536
+Popped node: 017853462
+Node added to frontier: 107853462
+Popped node: 851037426
+Node added to frontier: 051837426
+Node added to frontier: 851307426
+Popped node: 107824365
+Node added to frontier: 170824365
+Node added to frontier: 127804365
+Popped node: 127845036
+Node added to frontier: 127045836
+Popped node: 817402356
+Node added to frontier: 807412356
+Node added to frontier: 817042356
+Node added to frontier: 817420356
+Popped node: 875310426
+Node added to frontier: 875301426
+Node added to frontier: 875316420
+Popped node: 817032546
+Node added to frontier: 017832546
+Node added to frontier: 817302546
+Popped node: 817026543
+Node added to frontier: 017826543
+Popped node: 127850346
+Node added to frontier: 120857346
+Node added to frontier: 127856340
+Popped node: 175820346
+Node added to frontier: 175802346
+Node added to frontier: 175826340
+Popped node: 817450362
+Node added to frontier: 810457362
+Node added to frontier: 817405362
+Popped node: 801527436
+Node added to frontier: 081527436
+Node added to frontier: 821507436
+Popped node: 287105346
+Node added to frontier: 207185346
+Node added to frontier: 287150346
+Node added to frontier: 287145306
+Popped node: 107823645
+Node added to frontier: 170823645
+Node added to frontier: 127803645
+Popped node: 807512436
+Node added to frontier: 087512436
+Node added to frontier: 870512436
+Popped node: 107852436
+Node added to frontier: 170852436
+Node added to frontier: 157802436
+Popped node: 287315406
+Node added to frontier: 287305416
+Node added to frontier: 287315460
+Popped node: 147280365
+Node added to frontier: 140287365
+Node added to frontier: 147208365
+Popped node: 817304625
+Node added to frontier: 807314625
+Node added to frontier: 817034625
+Node added to frontier: 817340625
+Popped node: 137805426
+Node added to frontier: 137085426
+Node added to frontier: 137850426
+Node added to frontier: 137825406
+Popped node: 817264305
+Node added to frontier: 817264035
+Node added to frontier: 817264350
+Popped node: 801425367
+Node added to frontier: 810425367
+Node added to frontier: 821405367
+Popped node: 487105236
+Node added to frontier: 407185236
+Node added to frontier: 487150236
+Node added to frontier: 487135206
+Popped node: 480251367
+Node added to frontier: 408251367
+Popped node: 841207365
+Node added to frontier: 841027365
+Node added to frontier: 841270365
+Node added to frontier: 841267305
+Popped node: 817240653
+Node added to frontier: 810247653
+Node added to frontier: 817204653
+Popped node: 817356420
+Node added to frontier: 817356402
+Popped node: 481265307
+Node added to frontier: 481265037
+Node added to frontier: 481265370
+Popped node: 801357426
+Node added to frontier: 081357426
+Popped node: 147850236
+Node added to frontier: 140857236
+Node added to frontier: 147856230
+Popped node: 487205316
+Node added to frontier: 407285316
+Node added to frontier: 487025316
+Node added to frontier: 487250316
+Popped node: 175804236
+Node added to frontier: 105874236
+Node added to frontier: 175084236
+Node added to frontier: 175834206
+Popped node: 175846230
+Node added to frontier: 175846203
+Popped node: 147806253
+Node added to frontier: 147086253
+Node added to frontier: 147860253
+Node added to frontier: 147856203
+Popped node: 481207356
+Node added to frontier: 401287356
+Node added to frontier: 481027356
+Node added to frontier: 481270356
+Popped node: 415280367
+Node added to frontier: 415208367
+Node added to frontier: 415287360
+Popped node: 047185236
+Popped node: 875401236
+Node added to frontier: 805471236
+Node added to frontier: 875041236
+Node added to frontier: 875431206
+Popped node: 807516423
+Node added to frontier: 087516423
+Node added to frontier: 870516423
+Popped node: 087516423
+Node added to frontier: 587016423
+Popped node: 861407253
+Node added to frontier: 861047253
+Node added to frontier: 861470253
+Node added to frontier: 861457203
+Popped node: 875416230
+Node added to frontier: 875416203
+Popped node: 157806423
+Node added to frontier: 157086423
+Node added to frontier: 157860423
+Node added to frontier: 157826403
+Popped node: 817256340
+Node added to frontier: 817256304
+Popped node: 147803265
+Node added to frontier: 147083265
+Node added to frontier: 147863205
+Popped node: 807214365
+Node added to frontier: 087214365
+Node added to frontier: 870214365
+Popped node: 831407265
+Node added to frontier: 831047265
+Node added to frontier: 831470265
+Node added to frontier: 831467205
+Popped node: 807213645
+Node added to frontier: 087213645
+Node added to frontier: 870213645
+Popped node: 481507236
+Node added to frontier: 401587236
+Node added to frontier: 481570236
+Node added to frontier: 481537206
+Popped node: 281407365
+Node added to frontier: 201487365
+Node added to frontier: 281470365
+Node added to frontier: 281467305
+Popped node: 241805367
+Node added to frontier: 201845367
+Node added to frontier: 241850367
+Node added to frontier: 241865307
+Popped node: 173840265
+Node added to frontier: 173804265
+Node added to frontier: 173845260
+Popped node: 176840253
+Node added to frontier: 176804253
+Node added to frontier: 176843250
+Popped node: 481067253
+Node added to frontier: 481607253
+Node added to frontier: 481267053
+Popped node: 175830426
+Node added to frontier: 175803426
+Node added to frontier: 175836420
+Popped node: 481037265
+Node added to frontier: 481307265
+Node added to frontier: 481237065
+Popped node: 487013265
+Node added to frontier: 487103265
+Node added to frontier: 487213065
+Popped node: 127840365
+Node added to frontier: 120847365
+Popped node: 487016253
+Node added to frontier: 487106253
+Node added to frontier: 487216053
+Popped node: 817206543
+Node added to frontier: 807216543
+Node added to frontier: 817260543
+Popped node: 850471236
+Popped node: 387015426
+Node added to frontier: 387105426
+Node added to frontier: 387415026
+Popped node: 875210346
+Node added to frontier: 875201346
+Node added to frontier: 875216340
+Popped node: 801257346
+Node added to frontier: 081257346
+Popped node: 081257346
+Node added to frontier: 281057346
+Popped node: 851476230
+Node added to frontier: 851476203
+Popped node: 873410265
+Node added to frontier: 873401265
+Node added to frontier: 873415260
+Popped node: 107863425
+Node added to frontier: 170863425
+Node added to frontier: 167803425
+Popped node: 876410253
+Node added to frontier: 876401253
+Node added to frontier: 876413250
+Popped node: 807613425
+Node added to frontier: 087613425
+Node added to frontier: 870613425
+Popped node: 176850423
+Node added to frontier: 176805423
+Node added to frontier: 176853420
+Popped node: 817623450
+Node added to frontier: 817620453
+Popped node: 147250386
+Node added to frontier: 140257386
+Node added to frontier: 147256380
+Popped node: 147830265
+Node added to frontier: 140837265
+Popped node: 801567423
+Node added to frontier: 081567423
+Node added to frontier: 861507423
+Popped node: 487210365
+Node added to frontier: 480217365
+Node added to frontier: 487201365
+Popped node: 801237645
+Node added to frontier: 081237645
+Node added to frontier: 831207645
+Popped node: 047125386
+Node added to frontier: 407125386
+Popped node: 481305627
+Node added to frontier: 401385627
+Node added to frontier: 481035627
+Node added to frontier: 481350627
+Popped node: 810457362
+Node added to frontier: 801457362
+Popped node: 817605432
+Node added to frontier: 807615432
+Node added to frontier: 817065432
+Node added to frontier: 817650432
+Popped node: 801327465
+Node added to frontier: 081327465
+Node added to frontier: 821307465
+Popped node: 817032465
+Node added to frontier: 017832465
+Node added to frontier: 817432065
+Popped node: 807312465
+Node added to frontier: 087312465
+Node added to frontier: 870312465
+Popped node: 817235604
+Node added to frontier: 817205634
+Node added to frontier: 817235064
+Popped node: 501847236
+Node added to frontier: 510847236
+Node added to frontier: 541807236
+Popped node: 817362405
+Node added to frontier: 817362045
+Node added to frontier: 817362450
+Popped node: 217405386
+Node added to frontier: 207415386
+Node added to frontier: 217450386
+Node added to frontier: 217485306
+Popped node: 027185346
+Popped node: 850431267
+Node added to frontier: 805431267
+Popped node: 801537462
+Node added to frontier: 081537462
+Node added to frontier: 831507462
+Popped node: 081537462
+Node added to frontier: 581037462
+Popped node: 287145306
+Node added to frontier: 287145036
+Node added to frontier: 287145360
+Popped node: 215340687
+Node added to frontier: 215304687
+Node added to frontier: 215347680
+Popped node: 321045687
+Node added to frontier: 321405687
+Node added to frontier: 321645087
+Popped node: 807315642
+Node added to frontier: 087315642
+Node added to frontier: 870315642
+Popped node: 107835642
+Node added to frontier: 170835642
+Node added to frontier: 137805642
+Popped node: 817345062
+Node added to frontier: 817045362
+Popped node: 241380675
+Node added to frontier: 240381675
+Node added to frontier: 241308675
+Popped node: 017826543
+Node added to frontier: 107826543
+Popped node: 801247536
+Node added to frontier: 081247536
+Node added to frontier: 841207536
+Popped node: 170823645
+Node added to frontier: 173820645
+Popped node: 817350642
+Node added to frontier: 810357642
+Node added to frontier: 817352640
+Popped node: 175802346
+Node added to frontier: 105872346
+Node added to frontier: 175082346
+Node added to frontier: 175842306
+Popped node: 817345620
+Popped node: 051837426
+Node added to frontier: 501837426
+Popped node: 107853462
+Node added to frontier: 170853462
+Node added to frontier: 157803462
+Popped node: 170853462
+Node added to frontier: 173850462
+Popped node: 127045836
+Node added to frontier: 027145836
+Node added to frontier: 127405836
+Popped node: 851307426
+Node added to frontier: 851370426
+Node added to frontier: 851327406
+Popped node: 017832546
+Node added to frontier: 107832546
+Popped node: 170824365
+Node added to frontier: 174820365
+Popped node: 087512436
+Node added to frontier: 587012436
+Popped node: 127804365
+Node added to frontier: 127084365
+Node added to frontier: 127864305
+Popped node: 817042356
+Node added to frontier: 017842356
+Node added to frontier: 817342056
+Popped node: 817405362
+Node added to frontier: 807415362
+Better node on frontier:2527
+Node added to frontier: 817465302
+Popped node: 127803645
+Node added to frontier: 127083645
+Node added to frontier: 127830645
+Node added to frontier: 127843605
+Popped node: 817302546
+Node added to frontier: 807312546
+Node added to frontier: 817320546
+Node added to frontier: 817342506
+Popped node: 081527436
+Node added to frontier: 581027436
+Popped node: 821507436
+Node added to frontier: 821057436
+Node added to frontier: 821570436
+Node added to frontier: 821537406
+Popped node: 207185346
+Node added to frontier: 270185346
+Popped node: 851403267
+Node added to frontier: 801453267
+Node added to frontier: 851043267
+Node added to frontier: 851463207
+Popped node: 817204536
+Node added to frontier: 807214536
+Node added to frontier: 817024536
+Node added to frontier: 817234506
+Popped node: 851207346
+Node added to frontier: 851027346
+Node added to frontier: 851270346
+Popped node: 217345806
+Node added to frontier: 217305846
+Node added to frontier: 217345860
+Popped node: 047135826
+Node added to frontier: 407135826
+Popped node: 481320675
+Node added to frontier: 480321675
+Node added to frontier: 481302675
+Popped node: 807513462
+Node added to frontier: 087513462
+Node added to frontier: 870513462
+Popped node: 817453620
+Node added to frontier: 817450623
+Popped node: 147320865
+Node added to frontier: 140327865
+Node added to frontier: 147302865
+Popped node: 817063542
+Node added to frontier: 017863542
+Node added to frontier: 817603542
+Popped node: 175240386
+Node added to frontier: 175204386
+Node added to frontier: 175246380
+Popped node: 817324650
+Node added to frontier: 817320654
+Popped node: 147350826
+Node added to frontier: 140357826
+Node added to frontier: 147356820
+Popped node: 175340826
+Node added to frontier: 175304826
+Node added to frontier: 175346820
+Popped node: 120857346
+Node added to frontier: 102857346
+Popped node: 850241367
+Node added to frontier: 805241367
+Popped node: 127385406
+Node added to frontier: 127305486
+Node added to frontier: 127385460
+Popped node: 281307645
+Node added to frontier: 201387645
+Node added to frontier: 281037645
+Node added to frontier: 281370645
+Popped node: 281347650
+Node added to frontier: 281340657
+Popped node: 851204367
+Node added to frontier: 801254367
+Node added to frontier: 851024367
+Node added to frontier: 851264307
+Popped node: 801637425
+Node added to frontier: 081637425
+Node added to frontier: 831607425
+Popped node: 241350687
+Node added to frontier: 240351687
+Node added to frontier: 241357680
+Popped node: 241035687
+Node added to frontier: 041235687
+Node added to frontier: 241635087
+Popped node: 817403652
+Node added to frontier: 807413652
+Node added to frontier: 817043652
+Node added to frontier: 817430652
+Popped node: 317045826
+Node added to frontier: 317405826
+Node added to frontier: 317845026
+Popped node: 140257386
+Node added to frontier: 104257386
+Popped node: 487216053
+Node added to frontier: 487216503
+Popped node: 817260543
+Node added to frontier: 810267543
+Node added to frontier: 817263540
+Popped node: 176853420
+Node added to frontier: 176853402
+Popped node: 140837265
+Node added to frontier: 104837265
+Popped node: 387415026
+Node added to frontier: 387415206
+Popped node: 087613425
+Node added to frontier: 687013425
+Popped node: 281057346
+Node added to frontier: 281507346
+Node added to frontier: 281357046
+Popped node: 081327465
+Node added to frontier: 381027465
+Popped node: 873415260
+Node added to frontier: 873415206
+Popped node: 170863425
+Node added to frontier: 173860425
+Popped node: 876413250
+Node added to frontier: 876413205
+Popped node: 870613425
+Node added to frontier: 873610425
+Popped node: 480217365
+Node added to frontier: 408217365
+Popped node: 081237645
+Better node on frontier:2527
+Popped node: 401385627
+Node added to frontier: 041385627
+Node added to frontier: 410385627
+Popped node: 410385627
+Node added to frontier: 415380627
+Popped node: 017832465
+Node added to frontier: 107832465
+Popped node: 081567423
+Node added to frontier: 581067423
+Popped node: 176805423
+Node added to frontier: 106875423
+Node added to frontier: 176085423
+Node added to frontier: 176825403
+Popped node: 176085423
+Node added to frontier: 076185423
+Node added to frontier: 176485023
+Popped node: 176825403
+Node added to frontier: 176825043
+Node added to frontier: 176825430
+Popped node: 176485023
+Node added to frontier: 176485203
+Popped node: 176825043
+Node added to frontier: 176025843
+Popped node: 176025843
+Node added to frontier: 076125843
+Node added to frontier: 176205843
+Popped node: 176825430
+Node added to frontier: 176820435
+Popped node: 106875423
+Node added to frontier: 016875423
+Node added to frontier: 160875423
+Popped node: 016875423
+Node added to frontier: 816075423
+Popped node: 160875423
+Node added to frontier: 165870423
+Popped node: 140287365
+Node added to frontier: 104287365
+Popped node: 401287356
+Node added to frontier: 041287356
+Node added to frontier: 410287356
+Popped node: 041287356
+Node added to frontier: 241087356
+Popped node: 410287356
+Node added to frontier: 417280356
+Popped node: 241087356
+Node added to frontier: 241807356
+Node added to frontier: 241387056
+Popped node: 241387056
+Node added to frontier: 241387506
+Popped node: 170852436
+Node added to frontier: 172850436
+Popped node: 172850436
+Node added to frontier: 172805436
+Node added to frontier: 172856430
+Popped node: 172805436
+Node added to frontier: 102875436
+Node added to frontier: 172085436
+Node added to frontier: 172835406
+Popped node: 102875436
+Node added to frontier: 012875436
+Node added to frontier: 120875436
+Popped node: 172085436
+Node added to frontier: 072185436
+Node added to frontier: 172485036
+Popped node: 012875436
+Node added to frontier: 812075436
+Popped node: 172835406
+Node added to frontier: 172835046
+Node added to frontier: 172835460
+Popped node: 172485036
+Node added to frontier: 172485306
+Popped node: 172835046
+Node added to frontier: 172035846
+Popped node: 172035846
+Node added to frontier: 072135846
+Node added to frontier: 172305846
+Popped node: 172835460
+Node added to frontier: 172830465
+Popped node: 172485306
+Node added to frontier: 172405386
+Node added to frontier: 172485360
+Popped node: 172305846
+Node added to frontier: 102375846
+Node added to frontier: 172350846
+Node added to frontier: 172345806
+Popped node: 172405386
+Node added to frontier: 102475386
+Node added to frontier: 172045386
+Node added to frontier: 172450386
+Popped node: 102475386
+Node added to frontier: 012475386
+Node added to frontier: 120475386
+Popped node: 102375846
+Node added to frontier: 012375846
+Node added to frontier: 120375846
+Popped node: 172485360
+Node added to frontier: 172480365
+Popped node: 172345806
+Node added to frontier: 172345086
+Node added to frontier: 172345860
+Popped node: 172045386
+Node added to frontier: 072145386
+Popped node: 012375846
+Node added to frontier: 312075846
+Popped node: 012475386
+Node added to frontier: 412075386
+Popped node: 172345086
+Popped node: 172345860
+Node added to frontier: 172340865
+Popped node: 287315460
+Node added to frontier: 287310465
+Popped node: 147208365
+Node added to frontier: 107248365
+Node added to frontier: 147028365
+Node added to frontier: 147268305
+Popped node: 107248365
+Node added to frontier: 017248365
+Node added to frontier: 170248365
+Popped node: 170248365
+Node added to frontier: 178240365
+Popped node: 147028365
+Node added to frontier: 047128365
+Node added to frontier: 147328065
+Popped node: 017248365
+Node added to frontier: 217048365
+Popped node: 147328065
+Node added to frontier: 147328605
+Popped node: 217048365
+Node added to frontier: 217408365
+Node added to frontier: 217348065
+Popped node: 147328605
+Node added to frontier: 147308625
+Node added to frontier: 147328650
+Popped node: 217348065
+Node added to frontier: 217348605
+Popped node: 217348605
+Node added to frontier: 217308645
+Node added to frontier: 217348650
+Popped node: 407185236
+Node added to frontier: 470185236
+Popped node: 470185236
+Node added to frontier: 475180236
+Popped node: 817340625
+Node added to frontier: 810347625
+Popped node: 810347625
+Node added to frontier: 801347625
+Popped node: 137085426
+Node added to frontier: 037185426
+Node added to frontier: 137485026
+Popped node: 137485026
+Node added to frontier: 137485206
+Popped node: 105874236
+Node added to frontier: 015874236
+Node added to frontier: 150874236
+Popped node: 015874236
+Node added to frontier: 815074236
+Popped node: 175084236
+Node added to frontier: 075184236
+Node added to frontier: 175284036
+Popped node: 175284036
+Node added to frontier: 175284306
+Popped node: 175284306
+Better node on frontier:2527
+Node added to frontier: 175284360
+Popped node: 175204386
+Node added to frontier: 105274386
+Node added to frontier: 175024386
+Popped node: 175024386
+Node added to frontier: 075124386
+Node added to frontier: 175324086
+Popped node: 105274386
+Node added to frontier: 015274386
+Node added to frontier: 150274386
+Popped node: 175284360
+Node added to frontier: 175280364
+Popped node: 015274386
+Node added to frontier: 215074386
+Popped node: 175324086
+Node added to frontier: 175324806
+Popped node: 215074386
+Node added to frontier: 215704386
+Node added to frontier: 215374086
+Popped node: 215374086
+Node added to frontier: 215374806
+Popped node: 147860253
+Node added to frontier: 140867253
+Node added to frontier: 147863250
+Popped node: 140867253
+Node added to frontier: 104867253
+Popped node: 147863250
+Better node on frontier:2527
+Popped node: 147863205
+Node added to frontier: 147863025
+Popped node: 147863025
+Node added to frontier: 147063825
+Popped node: 137825406
+Node added to frontier: 137825046
+Node added to frontier: 137825460
+Popped node: 137825460
+Node added to frontier: 137820465
+Popped node: 137825046
+Node added to frontier: 137025846
+Popped node: 137025846
+Node added to frontier: 037125846
+Node added to frontier: 137205846
+Popped node: 147086253
+Node added to frontier: 047186253
+Node added to frontier: 147286053
+Popped node: 147286053
+Node added to frontier: 147286503
+Popped node: 810425367
+Node added to frontier: 815420367
+Popped node: 821405367
+Node added to frontier: 821045367
+Node added to frontier: 821450367
+Node added to frontier: 821465307
+Popped node: 821045367
+Node added to frontier: 021845367
+Node added to frontier: 821345067
+Popped node: 021845367
+Popped node: 821345067
+Node added to frontier: 821345607
+Popped node: 821345607
+Node added to frontier: 821305647
+Node added to frontier: 821345670
+Popped node: 821345670
+Node added to frontier: 821340675
+Popped node: 870512436
+Node added to frontier: 872510436
+Popped node: 872510436
+Node added to frontier: 872501436
+Node added to frontier: 872516430
+Popped node: 147856203
+Node added to frontier: 147856023
+Better node on frontier:2527
+Popped node: 147856023
+Node added to frontier: 147056823
+Popped node: 147056823
+Node added to frontier: 047156823
+Node added to frontier: 147506823
+Popped node: 147856230
+Popped node: 487135206
+Node added to frontier: 487135026
+Node added to frontier: 487135260
+Popped node: 487135026
+Node added to frontier: 487035126
+Popped node: 487135260
+Node added to frontier: 487130265
+Popped node: 175834206
+Node added to frontier: 175834026
+Node added to frontier: 175834260
+Popped node: 175834026
+Node added to frontier: 175034826
+Popped node: 175034826
+Node added to frontier: 075134826
+Better node on frontier:2527
+Popped node: 175834260
+Node added to frontier: 175830264
+Popped node: 175304826
+Node added to frontier: 105374826
+Better node on frontier:2527
+Popped node: 105374826
+Node added to frontier: 015374826
+Node added to frontier: 150374826
+Popped node: 175324806
+Node added to frontier: 175324860
+Popped node: 175324860
+Node added to frontier: 175320864
+Popped node: 408251367
+Node added to frontier: 048251367
+Node added to frontier: 458201367
+Popped node: 048251367
+Node added to frontier: 248051367
+Popped node: 248051367
+Node added to frontier: 248501367
+Node added to frontier: 248351067
+Popped node: 248351067
+Node added to frontier: 248351607
+Popped node: 248351607
+Node added to frontier: 248301657
+Node added to frontier: 248351670
+Popped node: 248351670
+Node added to frontier: 248350671
+Popped node: 810247653
+Node added to frontier: 801247653
+Popped node: 841027365
+Node added to frontier: 041827365
+Node added to frontier: 841327065
+Popped node: 041827365
+Node added to frontier: 401827365
+Popped node: 841327065
+Node added to frontier: 841327605
+Popped node: 841327605
+Node added to frontier: 841307625
+Node added to frontier: 841327650
+Popped node: 841270365
+Node added to frontier: 840271365
+Node added to frontier: 841275360
+Popped node: 841275360
+Node added to frontier: 841275306
+Popped node: 081357426
+Node added to frontier: 381057426
+Popped node: 817356402
+Node added to frontier: 817306452
+Node added to frontier: 817356042
+Popped node: 817356042
+Node added to frontier: 817056342
+Popped node: 481265370
+Node added to frontier: 481260375
+Popped node: 140857236
+Node added to frontier: 104857236
+Popped node: 487025316
+Node added to frontier: 087425316
+Node added to frontier: 487325016
+Popped node: 087425316
+Node added to frontier: 807425316
+Popped node: 487325016
+Node added to frontier: 487325106
+Popped node: 407285316
+Node added to frontier: 047285316
+Node added to frontier: 470285316
+Popped node: 470285316
+Node added to frontier: 475280316
+Popped node: 047285316
+Node added to frontier: 247085316
+Popped node: 247085316
+Node added to frontier: 247805316
+Node added to frontier: 247385016
+Popped node: 247385016
+Node added to frontier: 247385106
+Popped node: 481027356
+Node added to frontier: 081427356
+Node added to frontier: 481327056
+Popped node: 081427356
+Node added to frontier: 801427356
+Popped node: 481327056
+Node added to frontier: 481327506
+Popped node: 481270356
+Node added to frontier: 480271356
+Node added to frontier: 481276350
+Popped node: 481607253
+Node added to frontier: 401687253
+Node added to frontier: 481670253
+Node added to frontier: 481657203
+Popped node: 401687253
+Node added to frontier: 041687253
+Node added to frontier: 410687253
+Popped node: 041687253
+Node added to frontier: 641087253
+Popped node: 481670253
+Node added to frontier: 480671253
+Node added to frontier: 481673250
+Popped node: 481657203
+Node added to frontier: 481657023
+Node added to frontier: 481657230
+Popped node: 410687253
+Node added to frontier: 417680253
+Popped node: 481673250
+Node added to frontier: 481673205
+Popped node: 481657023
+Node added to frontier: 481057623
+Popped node: 481057623
+Node added to frontier: 081457623
+Node added to frontier: 481507623
+Popped node: 481657230
+Node added to frontier: 481650237
+Popped node: 481673205
+Node added to frontier: 481603275
+Node added to frontier: 481673025
+Popped node: 481650237
+Node added to frontier: 480651237
+Node added to frontier: 481605237
+Popped node: 081457623
+Node added to frontier: 801457623
+Popped node: 481603275
+Node added to frontier: 401683275
+Node added to frontier: 481063275
+Node added to frontier: 481630275
+Popped node: 481673025
+Node added to frontier: 481073625
+Popped node: 481605237
+Node added to frontier: 401685237
+Node added to frontier: 481065237
+Node added to frontier: 481635207
+Popped node: 401683275
+Node added to frontier: 041683275
+Node added to frontier: 410683275
+Popped node: 481073625
+Node added to frontier: 081473625
+Node added to frontier: 481703625
+Popped node: 481630275
+Node added to frontier: 480631275
+Node added to frontier: 481635270
+Popped node: 401685237
+Node added to frontier: 041685237
+Node added to frontier: 410685237
+Popped node: 041683275
+Node added to frontier: 641083275
+Popped node: 481635207
+Node added to frontier: 481635027
+Popped node: 410683275
+Node added to frontier: 413680275
+Popped node: 081473625
+Node added to frontier: 801473625
+Popped node: 041685237
+Node added to frontier: 641085237
+Popped node: 481635270
+Popped node: 410685237
+Node added to frontier: 415680237
+Popped node: 481635027
+Better node on frontier:2527
+Popped node: 481035627
+Node added to frontier: 081435627
+Popped node: 081435627
+Node added to frontier: 801435627
+Popped node: 875041236
+Node added to frontier: 075841236
+Node added to frontier: 875241036
+Popped node: 075841236
+Node added to frontier: 705841236
+Popped node: 875241036
+Node added to frontier: 875241306
+Popped node: 875241306
+Node added to frontier: 875241360
+Popped node: 875241360
+Node added to frontier: 875240361
+Popped node: 481537206
+Node added to frontier: 481537026
+Node added to frontier: 481537260
+Popped node: 481537026
+Node added to frontier: 481037526
+Popped node: 481537260
+Node added to frontier: 481530267
+Popped node: 481530267
+Node added to frontier: 480531267
+Node added to frontier: 481503267
+Popped node: 481570236
+Node added to frontier: 480571236
+Node added to frontier: 481576230
+Popped node: 481237065
+Node added to frontier: 481237605
+Popped node: 481237605
+Node added to frontier: 481207635
+Node added to frontier: 481237650
+Popped node: 120847365
+Node added to frontier: 102847365
+Popped node: 102847365
+Node added to frontier: 012847365
+Node added to frontier: 142807365
+Popped node: 012847365
+Node added to frontier: 812047365
+Popped node: 870516423
+Node added to frontier: 876510423
+Popped node: 875431206
+Node added to frontier: 875431026
+Node added to frontier: 875431260
+Popped node: 875431026
+Node added to frontier: 875031426
+Popped node: 875431260
+Node added to frontier: 875430261
+Popped node: 087214365
+Node added to frontier: 287014365
+Popped node: 287014365
+Node added to frontier: 287104365
+Node added to frontier: 287314065
+Popped node: 287314065
+Node added to frontier: 287314605
+Popped node: 287314605
+Node added to frontier: 287304615
+Node added to frontier: 287314650
+Popped node: 861470253
+Node added to frontier: 860471253
+Node added to frontier: 861473250
+Popped node: 861473250
+Node added to frontier: 861473205
+Popped node: 861473205
+Node added to frontier: 861403275
+Node added to frontier: 861473025
+Popped node: 861403275
+Node added to frontier: 801463275
+Node added to frontier: 861043275
+Node added to frontier: 861430275
+Popped node: 861473025
+Node added to frontier: 861073425
+Popped node: 861457203
+Node added to frontier: 861457023
+Node added to frontier: 861457230
+Popped node: 157086423
+Node added to frontier: 057186423
+Node added to frontier: 157486023
+Popped node: 487213065
+Node added to frontier: 487213605
+Popped node: 157860423
+Node added to frontier: 150867423
+Node added to frontier: 157863420
+Popped node: 281470365
+Node added to frontier: 280471365
+Node added to frontier: 281475360
+Popped node: 861047253
+Node added to frontier: 061847253
+Node added to frontier: 861247053
+Popped node: 157826403
+Node added to frontier: 157826043
+Node added to frontier: 157826430
+Popped node: 147083265
+Node added to frontier: 047183265
+Node added to frontier: 147283065
+Popped node: 805471236
+Node added to frontier: 085471236
+Popped node: 870214365
+Node added to frontier: 874210365
+Popped node: 870213645
+Node added to frontier: 873210645
+Popped node: 087213645
+Node added to frontier: 287013645
+Popped node: 831047265
+Node added to frontier: 031847265
+Node added to frontier: 831247065
+Popped node: 831470265
+Node added to frontier: 830471265
+Node added to frontier: 831475260
+Popped node: 201845367
+Node added to frontier: 210845367
+Popped node: 415208367
+Node added to frontier: 405218367
+Node added to frontier: 415028367
+Node added to frontier: 415268307
+Popped node: 401587236
+Node added to frontier: 041587236
+Node added to frontier: 410587236
+Popped node: 201487365
+Node added to frontier: 021487365
+Node added to frontier: 210487365
+Popped node: 176843250
+Node added to frontier: 176843205
+Popped node: 173845260
+Node added to frontier: 173845206
+Popped node: 481307265
+Node added to frontier: 401387265
+Node added to frontier: 481370265
+Node added to frontier: 481367205
+Popped node: 481267053
+Node added to frontier: 481267503
+Popped node: 817352640
+Node added to frontier: 817352604
+Popped node: 170835642
+Node added to frontier: 175830642
+Popped node: 817362045
+Node added to frontier: 817062345
+Popped node: 510847236
+Node added to frontier: 517840236
+Popped node: 821307465
+Node added to frontier: 821037465
+Node added to frontier: 821370465
+Node added to frontier: 821367405
+Popped node: 817432065
+Node added to frontier: 817432605
+Popped node: 810357642
+Node added to frontier: 801357642
+Popped node: 870312465
+Node added to frontier: 872310465
+Popped node: 805431267
+Node added to frontier: 085431267
+Node added to frontier: 835401267
+Popped node: 087315642
+Node added to frontier: 387015642
+Popped node: 287145360
+Node added to frontier: 287140365
+Popped node: 105872346
+Node added to frontier: 015872346
+Node added to frontier: 150872346
+Popped node: 175082346
+Node added to frontier: 075182346
+Node added to frontier: 175382046
+Popped node: 175842306
+Node added to frontier: 175842036
+Node added to frontier: 175842360
+Popped node: 870315642
+Node added to frontier: 875310642
+Popped node: 041385627
+Node added to frontier: 341085627
+Popped node: 087312465
+Node added to frontier: 387012465
+Popped node: 241308675
+Node added to frontier: 201348675
+Node added to frontier: 241038675
+Node added to frontier: 241378605
+Popped node: 081247536
+Node added to frontier: 281047536
+Popped node: 127830645
+Node added to frontier: 120837645
+Node added to frontier: 127835640
+Popped node: 127084365
+Node added to frontier: 027184365
+Node added to frontier: 127384065
+Popped node: 817342056
+Popped node: 817045362
+Node added to frontier: 017845362
+Popped node: 817342506
+Node added to frontier: 817342560
+Popped node: 821057436
+Node added to frontier: 021857436
+Node added to frontier: 821457036
+Popped node: 021857436
+Node added to frontier: 201857436
+Popped node: 127083645
+Node added to frontier: 027183645
+Node added to frontier: 127683045
+Popped node: 127843605
+Node added to frontier: 127843065
+Node added to frontier: 127843650
+Popped node: 801453267
+Node added to frontier: 081453267
+Node added to frontier: 810453267
+Popped node: 817234506
+Node added to frontier: 817234056
+Node added to frontier: 817234560
+Popped node: 821570436
+Node added to frontier: 820571436
+Node added to frontier: 821576430
+Popped node: 821537406
+Node added to frontier: 821537046
+Node added to frontier: 821537460
+Popped node: 851043267
+Node added to frontier: 051843267
+Node added to frontier: 851243067
+Popped node: 851327406
+Node added to frontier: 851327046
+Node added to frontier: 851327460
+Popped node: 270185346
+Node added to frontier: 275180346
+Popped node: 217345860
+Node added to frontier: 217340865
+Popped node: 817024536
+Node added to frontier: 017824536
+Node added to frontier: 817524036
+Popped node: 017842356
+Node added to frontier: 107842356
+Popped node: 851027346
+Node added to frontier: 051827346
+Popped node: 481302675
+Node added to frontier: 401382675
+Node added to frontier: 481032675
+Node added to frontier: 481372605
+Popped node: 851370426
+Node added to frontier: 850371426
+Node added to frontier: 851376420
+Popped node: 870513462
+Node added to frontier: 873510462
+Popped node: 851270346
+Node added to frontier: 850271346
+Node added to frontier: 851276340
+Popped node: 087513462
+Node added to frontier: 587013462
+Popped node: 147302865
+Node added to frontier: 107342865
+Node added to frontier: 147032865
+Node added to frontier: 147362805
+Popped node: 817603542
+Node added to frontier: 807613542
+Node added to frontier: 817630542
+Node added to frontier: 817643502
+Popped node: 015374826
+Node added to frontier: 315074826
+Popped node: 140327865
+Node added to frontier: 104327865
+Popped node: 147063825
+Node added to frontier: 047163825
+Node added to frontier: 147603825
+Popped node: 017863542
+Node added to frontier: 107863542
+Popped node: 140357826
+Node added to frontier: 104357826
+Popped node: 102857346
+Node added to frontier: 012857346
+Node added to frontier: 152807346
+Popped node: 127305486
+Node added to frontier: 107325486
+Node added to frontier: 127035486
+Node added to frontier: 127350486
+Popped node: 805241367
+Node added to frontier: 085241367
+Node added to frontier: 845201367
+Popped node: 201387645
+Node added to frontier: 021387645
+Node added to frontier: 210387645
+Popped node: 127385460
+Node added to frontier: 127380465
+Popped node: 281370645
+Node added to frontier: 280371645
+Node added to frontier: 281375640
+Popped node: 801254367
+Node added to frontier: 081254367
+Node added to frontier: 810254367
+Popped node: 281340657
+Node added to frontier: 280341657
+Node added to frontier: 281304657
+Popped node: 851024367
+Node added to frontier: 051824367
+Node added to frontier: 851324067
+Popped node: 081637425
+Node added to frontier: 681037425
+Popped node: 817043652
+Node added to frontier: 017843652
+Node added to frontier: 817643052
+Popped node: 817430652
+Node added to frontier: 810437652
+Node added to frontier: 817432650
+Popped node: 810267543
+Node added to frontier: 801267543
+Popped node: 817263540
+Node added to frontier: 817263504
+Popped node: 176853402
+Node added to frontier: 176803452
+Node added to frontier: 176853042
+Popped node: 408217365
+Node added to frontier: 048217365
+Node added to frontier: 418207365
+Popped node: 281357046
+Node added to frontier: 281357406
+Popped node: 876413205
+Node added to frontier: 876403215
+Node added to frontier: 876413025
+Popped node: 281037645
+Node added to frontier: 281637045
+Popped node: 801463275
+Node added to frontier: 081463275
+Node added to frontier: 810463275
+Popped node: 861043275
+Node added to frontier: 061843275
+Node added to frontier: 861243075
+Popped node: 861430275
+Node added to frontier: 860431275
+Node added to frontier: 861435270
+Popped node: 861457023
+Node added to frontier: 861057423
+Popped node: 861457230
+Node added to frontier: 861450237
+Popped node: 150867423
+Node added to frontier: 105867423
+Popped node: 157486023
+Node added to frontier: 157486203
+Popped node: 487213605
+Node added to frontier: 487203615
+Node added to frontier: 487213650
+Popped node: 157863420
+Node added to frontier: 157863402
+Popped node: 061847253
+Node added to frontier: 601847253
+Popped node: 281475360
+Node added to frontier: 281475306
+Popped node: 861247053
+Node added to frontier: 861247503
+Popped node: 157826043
+Node added to frontier: 157026843
+Popped node: 157826430
+Node added to frontier: 157820436
+Popped node: 085471236
+Node added to frontier: 485071236
+Popped node: 147283065
+Node added to frontier: 147283605
+Popped node: 031847265
+Node added to frontier: 301847265
+Popped node: 287013645
+Node added to frontier: 287103645
+Node added to frontier: 287613045
+Popped node: 831247065
+Node added to frontier: 831247605
+Popped node: 831475260
+Node added to frontier: 831475206
+Popped node: 210845367
+Node added to frontier: 215840367
+Popped node: 415028367
+Node added to frontier: 015428367
+Node added to frontier: 415328067
+Popped node: 041587236
+Node added to frontier: 541087236
+Popped node: 410587236
+Node added to frontier: 417580236
+Popped node: 021487365
+Node added to frontier: 421087365
+Popped node: 210487365
+Node added to frontier: 217480365
+Popped node: 401387265
+Node added to frontier: 041387265
+Node added to frontier: 410387265
+Popped node: 176843205
+Node added to frontier: 176803245
+Node added to frontier: 176843025
+Popped node: 481370265
+Node added to frontier: 480371265
+Node added to frontier: 481375260
+Popped node: 821370465
+Node added to frontier: 820371465
+Node added to frontier: 821375460
+Popped node: 817432605
+Node added to frontier: 817402635
+Popped node: 085431267
+Node added to frontier: 485031267
+Popped node: 872310465
+Node added to frontier: 872301465
+Node added to frontier: 872315460
+Popped node: 015872346
+Node added to frontier: 815072346
+Popped node: 201348675
+Node added to frontier: 021348675
+Node added to frontier: 210348675
+Popped node: 175382046
+Node added to frontier: 175382406
+Popped node: 175842360
+Node added to frontier: 175840362
+Popped node: 120837645
+Node added to frontier: 102837645
+Popped node: 281047536
+Node added to frontier: 281407536
+Node added to frontier: 281547036
+Popped node: 127835640
+Node added to frontier: 127835604
+Popped node: 017845362
+Node added to frontier: 107845362
+Popped node: 127384065
+Node added to frontier: 127384605
+Popped node: 817342560
+Node added to frontier: 817340562
+Popped node: 821457036
+Node added to frontier: 821457306
+Popped node: 081453267
+Node added to frontier: 481053267
+Popped node: 810453267
+Node added to frontier: 813450267
+Popped node: 817234056
+Node added to frontier: 817034256
+Popped node: 817234560
+Node added to frontier: 817230564
+Popped node: 051843267
+Node added to frontier: 501843267
+Popped node: 821537046
+Node added to frontier: 821037546
+Popped node: 821537460
+Node added to frontier: 821530467
+Popped node: 851243067
+Node added to frontier: 851243607
+Popped node: 851327046
+Popped node: 851327460
+Node added to frontier: 851320467
+Popped node: 017824536
+Node added to frontier: 107824536
+Popped node: 817524036
+Node added to frontier: 817524306
+Popped node: 051827346
+Node added to frontier: 501827346
+Popped node: 401382675
+Node added to frontier: 041382675
+Node added to frontier: 410382675
+Popped node: 107342865
+Node added to frontier: 017342865
+Node added to frontier: 170342865
+Popped node: 817630542
+Node added to frontier: 810637542
+Node added to frontier: 817632540
+Popped node: 817643502
+Better node on frontier:2527
+Node added to frontier: 817643520
+Popped node: 147603825
+Node added to frontier: 107643825
+Node added to frontier: 147630825
+Node added to frontier: 147623805
+Popped node: 012857346
+Node added to frontier: 812057346
+Popped node: 085241367
+Node added to frontier: 285041367
+Popped node: 021387645
+Node added to frontier: 321087645
+Popped node: 210387645
+Node added to frontier: 217380645
+Popped node: 081254367
+Node added to frontier: 281054367
+Popped node: 281375640
+Node added to frontier: 281375604
+Popped node: 810254367
+Node added to frontier: 814250367
+Popped node: 051824367
+Node added to frontier: 501824367
+Popped node: 017843652
+Node added to frontier: 107843652
+Popped node: 851324067
+Node added to frontier: 851324607
+Popped node: 810437652
+Node added to frontier: 801437652
+Popped node: 817432650
+Popped node: 176853042
+Node added to frontier: 176053842
+Popped node: 048217365
+Node added to frontier: 248017365
+Popped node: 418207365
+Node added to frontier: 418027365
+Node added to frontier: 418270365
+Node added to frontier: 418267305
+Popped node: 876413025
+Node added to frontier: 876013425
+Popped node: 081463275
+Popped node: 810463275
+Node added to frontier: 813460275
+Popped node: 061843275
+Node added to frontier: 601843275
+Popped node: 601843275
+Node added to frontier: 610843275
+Node added to frontier: 641803275
+Popped node: 861243075
+Node added to frontier: 861243705
+Popped node: 861435270
+Node added to frontier: 861435207
+Popped node: 105867423
+Node added to frontier: 015867423
+Node added to frontier: 165807423
+Popped node: 015867423
+Node added to frontier: 815067423
+Popped node: 861450237
+Node added to frontier: 860451237
+Node added to frontier: 861405237
+Popped node: 601847253
+Node added to frontier: 610847253
+Node added to frontier: 641807253
+Popped node: 157863402
+Better node on frontier:2527
+Node added to frontier: 157863042
+Popped node: 157026843
+Node added to frontier: 057126843
+Node added to frontier: 157206843
+Popped node: 301847265
+Node added to frontier: 310847265
+Node added to frontier: 341807265
+Popped node: 157820436
+Node added to frontier: 150827436
+Better node on frontier:2527
+Popped node: 147283605
+Node added to frontier: 147203685
+Node added to frontier: 147283650
+Popped node: 015428367
+Node added to frontier: 105428367
+Popped node: 831247605
+Node added to frontier: 831247650
+Popped node: 041387265
+Node added to frontier: 341087265
+Popped node: 415328067
+Node added to frontier: 415328607
+Popped node: 410387265
+Node added to frontier: 417380265
+Popped node: 176843025
+Node added to frontier: 176043825
+Popped node: 176043825
+Node added to frontier: 076143825
+Node added to frontier: 176403825
+Popped node: 481375260
+Node added to frontier: 481375206
+Popped node: 821375460
+Node added to frontier: 821375406
+Popped node: 021348675
+Node added to frontier: 321048675
+Popped node: 872315460
+Node added to frontier: 872315406
+Popped node: 210348675
+Node added to frontier: 218340675
+Popped node: 102837645
+Node added to frontier: 012837645
+Node added to frontier: 132807645
+Popped node: 281547036
+Node added to frontier: 281547306
+Popped node: 127384605
+Node added to frontier: 127304685
+Node added to frontier: 127384650
+Popped node: 821457306
+Node added to frontier: 821407356
+Node added to frontier: 821457360
+Popped node: 821530467
+Node added to frontier: 820531467
+Node added to frontier: 821503467
+Popped node: 851320467
+Node added to frontier: 850321467
+Node added to frontier: 851302467
+Popped node: 017342865
+Node added to frontier: 317042865
+Popped node: 851243607
+Node added to frontier: 851203647
+Node added to frontier: 851243670
+Popped node: 817524306
+Node added to frontier: 817504326
+Node added to frontier: 817524360
+Popped node: 041382675
+Node added to frontier: 341082675
+Popped node: 410382675
+Node added to frontier: 412380675
+Popped node: 170342865
+Better node on frontier:2527
+Popped node: 810637542
+Node added to frontier: 801637542
+Popped node: 107643825
+Node added to frontier: 017643825
+Node added to frontier: 170643825
+Popped node: 817632540
+Node added to frontier: 817632504
+Popped node: 817643052
+Popped node: 147630825
+Node added to frontier: 140637825
+Node added to frontier: 147635820
+Popped node: 147623805
+Node added to frontier: 147623085
+Node added to frontier: 147623850
+Popped node: 285041367
+Node added to frontier: 285401367
+Node added to frontier: 285341067
+Popped node: 281054367
+Node added to frontier: 281504367
+Node added to frontier: 281354067
+Popped node: 418027365
+Node added to frontier: 018427365
+Node added to frontier: 418327065
+Popped node: 018427365
+Node added to frontier: 108427365
+Popped node: 851324607
+Node added to frontier: 851304627
+Node added to frontier: 851324670
+Popped node: 176053842
+Node added to frontier: 076153842
+Node added to frontier: 176503842
+Popped node: 248017365
+Node added to frontier: 248107365
+Node added to frontier: 248317065
+Popped node: 418270365
+Node added to frontier: 410278365
+Node added to frontier: 418275360
+Popped node: 610843275
+Node added to frontier: 613840275
+Popped node: 861405237
+Node added to frontier: 801465237
+Node added to frontier: 861045237
+Better node on frontier:2527
+Popped node: 157803462
+Node added to frontier: 157083462
+Node added to frontier: 157830462
+Popped node: 157083462
+Node added to frontier: 057183462
+Node added to frontier: 157483062
+Popped node: 610847253
+Node added to frontier: 617840253
+Popped node: 157863042
+Node added to frontier: 157063842
+Popped node: 150827436
+Node added to frontier: 105827436
+Popped node: 310847265
+Node added to frontier: 317840265
+Popped node: 157802436
+Node added to frontier: 157082436
+Node added to frontier: 157832406
+Popped node: 147203685
+Node added to frontier: 107243685
+Node added to frontier: 147023685
+Node added to frontier: 147230685
+Popped node: 415328607
+Node added to frontier: 415308627
+Node added to frontier: 415328670
+Popped node: 012837645
+Node added to frontier: 812037645
+Popped node: 127304685
+Node added to frontier: 107324685
+Node added to frontier: 127034685
+Node added to frontier: 127340685
+Popped node: 281547306
+Node added to frontier: 281547360
+Popped node: 821457360
+Better node on frontier:2527
+Popped node: 821450367
+Node added to frontier: 820451367
+Popped node: 851302467
+Node added to frontier: 801352467
+Node added to frontier: 851032467
+Node added to frontier: 851362407
+Popped node: 801352467
+Node added to frontier: 081352467
+Node added to frontier: 810352467
+Popped node: 851243670
+Node added to frontier: 851240673
+Popped node: 817524360
+Node added to frontier: 817520364
+Popped node: 412380675
+Node added to frontier: 412308675
+Node added to frontier: 412385670
+Popped node: 172340865
+Node added to frontier: 172304865
+Popped node: 140637825
+Node added to frontier: 104637825
+Popped node: 017643825
+Node added to frontier: 617043825
+Popped node: 170643825
+Node added to frontier: 173640825
+Popped node: 147623085
+Popped node: 147635820
+Node added to frontier: 147635802
+Popped node: 285341067
+Node added to frontier: 285341607
+Popped node: 285341607
+Node added to frontier: 285301647
+Node added to frontier: 285341670
+Popped node: 281354067
+Node added to frontier: 281354607
+Popped node: 418327065
+Node added to frontier: 418327605
+Popped node: 851324670
+Node added to frontier: 851320674
+Popped node: 410278365
+Node added to frontier: 401278365
+Popped node: 248317065
+Node added to frontier: 248317605
+Popped node: 801465237
+Node added to frontier: 081465237
+Node added to frontier: 810465237
+Popped node: 418275360
+Node added to frontier: 418275306
+Popped node: 861045237
+Node added to frontier: 061845237
+Node added to frontier: 861245037
+Popped node: 157830462
+Node added to frontier: 150837462
+Node added to frontier: 157832460
+Popped node: 861435207
+Node added to frontier: 861435027
+Popped node: 157063842
+Node added to frontier: 057163842
+Node added to frontier: 157603842
+Popped node: 157483062
+Node added to frontier: 157483602
+Popped node: 107243685
+Node added to frontier: 017243685
+Node added to frontier: 170243685
+Popped node: 105827436
+Node added to frontier: 015827436
+Node added to frontier: 125807436
+Popped node: 157082436
+Node added to frontier: 057182436
+Node added to frontier: 157482036
+Popped node: 147023685
+Node added to frontier: 047123685
+Popped node: 157832406
+Node added to frontier: 157832046
+Popped node: 147230685
+Node added to frontier: 140237685
+Node added to frontier: 147235680
+Popped node: 415328670
+Node added to frontier: 415320678
+Popped node: 127340685
+Node added to frontier: 120347685
+Node added to frontier: 127345680
+Popped node: 281547360
+Node added to frontier: 281540367
+Popped node: 081352467
+Node added to frontier: 381052467
+Popped node: 810352467
+Node added to frontier: 812350467
+Popped node: 412308675
+Node added to frontier: 402318675
+Node added to frontier: 412038675
+Node added to frontier: 412378605
+Popped node: 412385670
+Node added to frontier: 412385607
+Popped node: 147635802
+Node added to frontier: 147605832
+Node added to frontier: 147635082
+Popped node: 285341670
+Node added to frontier: 285340671
+Popped node: 281354607
+Node added to frontier: 281354670
+Popped node: 418327605
+Node added to frontier: 418307625
+Node added to frontier: 418327650
+Popped node: 081465237
+Popped node: 810465237
+Node added to frontier: 815460237
+Popped node: 248317605
+Node added to frontier: 248307615
+Node added to frontier: 248317650
+Popped node: 150837462
+Node added to frontier: 105837462
+Popped node: 061845237
+Node added to frontier: 601845237
+Popped node: 861245037
+Node added to frontier: 861245307
+Popped node: 157832460
+Popped node: 861435027
+Node added to frontier: 861035427
+Popped node: 157603842
+Node added to frontier: 107653842
+Node added to frontier: 157630842
+Node added to frontier: 157643802
+Popped node: 107653842
+Node added to frontier: 017653842
+Node added to frontier: 170653842
+Popped node: 170243685
+Node added to frontier: 173240685
+Popped node: 017243685
+Node added to frontier: 217043685
+Popped node: 157483602
+Node added to frontier: 157403682
+Node added to frontier: 157483620
+Popped node: 015827436
+Node added to frontier: 815027436
+Popped node: 125807436
+Node added to frontier: 125087436
+Node added to frontier: 125870436
+Node added to frontier: 125837406
+Popped node: 157482036
+Node added to frontier: 157482306
+Popped node: 140237685
+Node added to frontier: 104237685
+Popped node: 415320678
+Node added to frontier: 410325678
+Node added to frontier: 415302678
+Popped node: 157832046
+Node added to frontier: 157032846
+Popped node: 147235680
+Node added to frontier: 147235608
+Popped node: 120347685
+Node added to frontier: 102347685
+Popped node: 281540367
+Node added to frontier: 280541367
+Popped node: 127345680
+Node added to frontier: 127345608
+Popped node: 812350467
+Node added to frontier: 812305467
+Node added to frontier: 812357460
+Popped node: 147635082
+Node added to frontier: 147035682
+Popped node: 105837462
+Node added to frontier: 015837462
+Node added to frontier: 135807462
+Popped node: 281354670
+Node added to frontier: 281350674
+Popped node: 601845237
+Node added to frontier: 610845237
+Node added to frontier: 641805237
+Popped node: 017653842
+Node added to frontier: 617053842
+Popped node: 861245307
+Node added to frontier: 861205347
+Node added to frontier: 861245370
+Popped node: 157630842
+Node added to frontier: 150637842
+Node added to frontier: 157632840
+Popped node: 157643802
+Node added to frontier: 157643082
+Node added to frontier: 157643820
+Popped node: 170653842
+Node added to frontier: 173650842
+Popped node: 217043685
+Node added to frontier: 217403685
+Node added to frontier: 217643085
+Popped node: 157403682
+Node added to frontier: 107453682
+Node added to frontier: 157043682
+Node added to frontier: 157430682
+Popped node: 125087436
+Node added to frontier: 025187436
+Node added to frontier: 125487036
+Popped node: 125870436
+Better node on frontier:2527
+Node added to frontier: 125876430
+Popped node: 125837406
+Node added to frontier: 125837046
+Node added to frontier: 125837460
+Popped node: 157482306
+Node added to frontier: 157402386
+Node added to frontier: 157482360
+Popped node: 410325678
+Node added to frontier: 401325678
+Popped node: 415302678
+Node added to frontier: 405312678
+Node added to frontier: 415032678
+Node added to frontier: 415372608
+Popped node: 102347685
+Node added to frontier: 012347685
+Node added to frontier: 142307685
+Popped node: 157032846
+Node added to frontier: 057132846
+Node added to frontier: 157302846
+Popped node: 127345608
+Node added to frontier: 127305648
+Node added to frontier: 127345068
+Popped node: 147235608
+Node added to frontier: 147205638
+Node added to frontier: 147235068
+Popped node: 147035682
+Node added to frontier: 047135682
+Node added to frontier: 147305682
+Popped node: 812305467
+Node added to frontier: 802315467
+Node added to frontier: 812035467
+Node added to frontier: 812365407
+Popped node: 015837462
+Node added to frontier: 815037462
+Popped node: 610845237
+Node added to frontier: 615840237
+Popped node: 150637842
+Node added to frontier: 105637842
+Popped node: 861245370
+Node added to frontier: 861240375
+Popped node: 107453682
+Node added to frontier: 017453682
+Node added to frontier: 170453682
+Popped node: 157632840
+Node added to frontier: 157632804
+Popped node: 157643082
+Popped node: 157043682
+Node added to frontier: 057143682
+Popped node: 157430682
+Node added to frontier: 150437682
+Node added to frontier: 157432680
+Popped node: 150437682
+Node added to frontier: 105437682
+Popped node: 120875436
+Popped node: 125487036
+Node added to frontier: 125487306
+Popped node: 157402386
+Node added to frontier: 107452386
+Node added to frontier: 157042386
+Node added to frontier: 157420386
+Popped node: 107452386
+Node added to frontier: 017452386
+Node added to frontier: 170452386
+Popped node: 125837046
+Node added to frontier: 125037846
+Popped node: 125837460
+Node added to frontier: 125830467
+Popped node: 157482360
+Node added to frontier: 157480362
+Popped node: 012347685
+Node added to frontier: 312047685
+Popped node: 157302846
+Node added to frontier: 107352846
+Node added to frontier: 157320846
+Node added to frontier: 157342806
+Popped node: 147305682
+Node added to frontier: 107345682
+Node added to frontier: 147350682
+Node added to frontier: 147385602
+Popped node: 105637842
+Node added to frontier: 015637842
+Node added to frontier: 135607842
+Popped node: 017453682
+Node added to frontier: 417053682
+Popped node: 170453682
+Node added to frontier: 173450682
+Popped node: 157432680
+Node added to frontier: 157432608
+Popped node: 105437682
+Node added to frontier: 015437682
+Node added to frontier: 135407682
+Popped node: 125487306
+Node added to frontier: 125407386
+Node added to frontier: 125487360
+Popped node: 157042386
+Node added to frontier: 057142386
+Node added to frontier: 157342086
+Popped node: 017452386
+Node added to frontier: 417052386
+Popped node: 170452386
+Better node on frontier:2527
+Popped node: 125830467
+Node added to frontier: 120835467
+Node added to frontier: 125803467
+Popped node: 125037846
+Node added to frontier: 025137846
+Node added to frontier: 125307846
+Popped node: 107352846
+Node added to frontier: 017352846
+Node added to frontier: 170352846
+Popped node: 107345682
+Node added to frontier: 017345682
+Node added to frontier: 170345682
+Popped node: 157342806
+Node added to frontier: 157342860
+Popped node: 015637842
+Node added to frontier: 615037842
+Popped node: 015437682
+Node added to frontier: 415037682
+Popped node: 157432608
+Node added to frontier: 157402638
+Node added to frontier: 157432068
+Popped node: 125407386
+Node added to frontier: 105427386
+Node added to frontier: 125047386
+Node added to frontier: 125470386
+Popped node: 125487360
+Node added to frontier: 125480367
+Popped node: 120835467
+Node added to frontier: 102835467
+Popped node: 157342086
+Popped node: 172450386
+Node added to frontier: 172456380
+Popped node: 125307846
+Node added to frontier: 105327846
+Node added to frontier: 125370846
+Node added to frontier: 125347806
+Popped node: 017352846
+Node added to frontier: 317052846
+Popped node: 170352846
+Better node on frontier:2527
+Popped node: 017345682
+Node added to frontier: 317045682
+Popped node: 170345682
+Node added to frontier: 175340682
+Popped node: 157342860
+Node added to frontier: 157340862
+Popped node: 125047386
+Node added to frontier: 025147386
+Node added to frontier: 125347086
+Popped node: 125470386
+Better node on frontier:2527
+Node added to frontier: 125476380
+Popped node: 102835467
+Node added to frontier: 012835467
+Node added to frontier: 132805467
+Popped node: 012835467
+Popped node: 125480367
+Node added to frontier: 120485367
+Node added to frontier: 125408367
+Popped node: 120485367
+Node added to frontier: 102485367
+Popped node: 102485367
+Node added to frontier: 012485367
+Node added to frontier: 182405367
+Popped node: 125370846
+Better node on frontier:2527
+Node added to frontier: 125376840
+Popped node: 125347806
+Node added to frontier: 125347860
+Popped node: 172350846
+Node added to frontier: 172356840
+Popped node: 125408367
+Node added to frontier: 125048367
+Node added to frontier: 125468307
+Popped node: 120475386
+Popped node: 125347086
+Popped node: 012485367
+Node added to frontier: 412085367
+Popped node: 120375846
+Popped node: 125048367
+Node added to frontier: 025148367
+Node added to frontier: 125348067
+Popped node: 125348067
+Node added to frontier: 125348607
+Popped node: 125347860
+Node added to frontier: 125340867
+Popped node: 125340867
+Node added to frontier: 120345867
+Node added to frontier: 125304867
+Popped node: 125348607
+Node added to frontier: 125308647
+Node added to frontier: 125348670
+Popped node: 120345867
+Node added to frontier: 102345867
+Popped node: 102345867
+Node added to frontier: 012345867
+Node added to frontier: 142305867
+Popped node: 125348670
+Node added to frontier: 125340678
+Popped node: 012345867
+Node added to frontier: 312045867
+Popped node: 125340678
+Node added to frontier: 120345678
+Node added to frontier: 125304678
+Popped node: 120345678
+Node added to frontier: 102345678
+Popped node: 102345678
+Node added to frontier: 012345678
+Node added to frontier: 142305678
+Popped node: 012345678
